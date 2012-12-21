@@ -1,6 +1,8 @@
-package com.android.linearlightsoutmenu;
+package com.android.lightsout;
 
 import java.util.ArrayList;
+
+import com.android.lightsout.R;
 
 import android.app.Activity;
 import android.content.SharedPreferences;

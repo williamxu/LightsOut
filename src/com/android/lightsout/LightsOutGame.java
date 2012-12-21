@@ -1,4 +1,4 @@
-package com.android.linearlightsoutmenu;
+package com.android.lightsout;
 
 import java.util.Random;
 

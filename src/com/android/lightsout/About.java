@@ -1,4 +1,6 @@
-package com.android.linearlightsoutmenu;
+package com.android.lightsout;
+import com.android.lightsout.R;
+
 import android.app.Activity;
 import android.os.Bundle;
 
