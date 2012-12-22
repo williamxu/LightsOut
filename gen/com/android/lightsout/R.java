@@ -58,16 +58,15 @@ public final class R {
         public static final int game_start=0x7f05000d;
         public static final int main_title=0x7f050002;
         public static final int menu_settings=0x7f050001;
-        public static final int new_game=0x7f050013;
+        public static final int new_game=0x7f050012;
         public static final int play_format=0x7f050004;
         public static final int play_start=0x7f050003;
         public static final int radio_label_3=0x7f050009;
         public static final int radio_label_5=0x7f05000a;
         public static final int radio_label_7=0x7f05000b;
         public static final int radio_label_9=0x7f05000c;
-        public static final int you_win=0x7f050010;
-        public static final int you_won_format=0x7f050012;
-        public static final int you_won_one_move=0x7f050011;
+        public static final int you_won_format=0x7f050011;
+        public static final int you_won_one_move=0x7f050010;
     }
     public static final class style {
         /** 

@@ -37,7 +37,7 @@ public class LightsOut extends Activity implements OnClickListener {
 	TableRow buttonRow = new TableRow(this);
 	for (int i = 0; i < numButtons; i++) {
 	    Button currentButton = new Button(this);
-	    currentButton.setTag(new Integer(i)); // Preparing for later
+	    currentButton.setTag(Integer.valueOf(i)); // Preparing for later
 	    buttons.add(currentButton);
 	    buttonRow.addView(currentButton);
 	    currentButton.setOnClickListener(this);
